@@ -30,7 +30,7 @@ torX = 0.0000001;
 % torX = 0;
 
 %%
-tend = 100;
+tend = 10;
 sim('main');
 
 
